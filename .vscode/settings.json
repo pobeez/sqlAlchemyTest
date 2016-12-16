@@ -1,0 +1,7 @@
+{
+    "python.unitTest.pyTestArgs": [
+        "CORE"
+    ]
+,
+"python.unitTest.pyTestEnabled": true
+}
