@@ -16,7 +16,8 @@ cookes = Table('cookies', metadata,
     , Column('cookie_sky', String(55))
     , Column('quantity', Integer())
     , Column('unit_cost', Numeric(12, 2))
-)
+) 
+
 
 
 
